@@ -1,6 +1,7 @@
 # Сервис обмена зашифрованными сообщениями
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Приложение доступно по 
+https://so-tasty-vezdecode.github.io/crypto-messages/
 
 ## Available Scripts
 
